@@ -1,53 +1,41 @@
 # Hi, I'm Sadeen Abu-Khadra 🤖
 
 Final-year Data Science & Artificial Intelligence student from Jordan 🇯🇴  
-42 School student (Core_Student) focused on algorithms, problem-solving, and software engineering through practice 💻
+42 School student focused on thinking deeply, solving problems, and building real systems through practice.
 
-I build and study AI systems with a focus on real-world applications, not just theory.
+I’m genuinely interested in how intelligent systems work, and I spend most of my time learning by building, testing, and improving.
 
----
-
-## About Me
-
-I am in my final year of studying Data Science and Artificial Intelligence 🎓
-
-Alongside university, I study at 42 School where I focus on improving my problem-solving skills, understanding algorithms deeply, and writing clean and efficient code through continuous practice.
-
-I prefer learning by building rather than only studying theory.
+What matters to me is not just understanding AI, but being able to turn it into something useful in the real world.
 
 ---
 
-## What I Work On
+## What I care about
 
-- Machine Learning and predictive systems 🤖  
-- Data analysis and real-world datasets 📊  
-- Large Language Models (LLMs) and RAG systems 🧠  
-- Robotics and embedded systems ⚙️  
-- Building end-to-end AI systems  
+I like working with data, understanding patterns, and building models that actually make sense outside of theory.
+
+I enjoy the process of learning hard concepts, breaking them down, and rebuilding them in code.
 
 ---
 
-## Skills
+## Focus
 
-Python, C++, C, JavaScript, HTML, CSS  
-Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch  
-OpenCV, Matplotlib  
-OpenAI API, FastAPI, Streamlit  
-MySQL, MongoDB  
-Git, GitHub, Linux,  Jupyter Notebook  
+- Artificial Intelligence and Machine Learning  
+- Data Science and real-world analytics  
+- Large Language Models and RAG systems  
+- System thinking and software engineering (42 approach)  
+- Building complete AI solutions from start to finish  
 
 ---
 
-## Experience
+## Current path
 
-- Teaching Assistant – Python Programming 👩‍🏫  
-- Robotics Club Member 🤖  
-- University tech and academic activities 🎯  
-- AI and Machine Learning projects during studies  
-- Problem-solving training at 42 School 💡  
+- Final-year AI & Data Science studies 🎓  
+- Continuous problem-solving practice at 42 School (Core student) 💻  
+- Working on real-world AI and ML systems  
+- Exploring modern LLM-based applications  
 
 ---
 
 ## Goal
 
-To become an AI engineer who builds systems that are practical, reliable, and useful in real-world applications 🚀
+To become an AI engineer who builds systems that are not just correct, but actually useful, practical, and impactful in real environments 🚀
