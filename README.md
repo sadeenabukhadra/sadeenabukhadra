@@ -1,5 +1,5 @@
 # Hi 🤖
-I'm Sadeen Abu-Khadra, a Data Scientist & Artificial Intelligence Engineer from Jordan 🇯🇴  
+I'm Sadeen Abu-Khadra, a Data Scientist & Artificial Intelligence Engineer from Jordan
 
 What interests me most is how systems work — how data, logic, and code come together to create something that actually functions in the real world.
 
