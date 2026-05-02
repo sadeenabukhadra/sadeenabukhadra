@@ -1,12 +1,14 @@
-# Hi, I'm Sadeen Abu-Khadra 🤖
+# Hi 🤖
 
-Final-year Data Science & Artificial Intelligence student from Jordan 🇯🇴  
-42 School student focused on thinking deeply, solving problems, and building real systems through practice.
+I'm Sadeen Abu-Khadra, a Data Scientist & Artificial Intelligence Engineer from Jordan 🇯🇴  
 
-I’m genuinely interested in how intelligent systems work, and I spend most of my time learning by building, testing, and improving.
+What interests me most is how systems work — how data, logic, and code come together to create something that actually functions in the real world.
 
-What matters to me is not just understanding AI, but being able to turn it into something useful in the real world.
+I focus on understanding and building systems rather than just learning isolated concepts.
 
+I learn best by building things, testing how they behave, and improving them until everything fits together properly.
+
+For me, the goal is always to see the bigger picture: how all the parts connect to form a working system.
 ---
 
 ## What I care about
