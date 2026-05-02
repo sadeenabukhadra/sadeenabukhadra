@@ -1,20 +1,19 @@
-# Hello, I'm Sadeen Abu-Khadra
-
+# Hi, I'm Sadeen Abu-Khadra 🤖
 
 Final-year Data Science & Artificial Intelligence student from Jordan 🇯🇴  
-42 School student focused on problem-solving, algorithms, and software engineering through hands-on practice.
+42 School student focused on algorithms, problem-solving, and software engineering through practice 💻
 
-I focus on building practical AI systems that connect machine learning with real-world applications.
+I build and study AI systems with a focus on real-world applications, not just theory.
 
 ---
 
 ## About Me
 
-I am in my final year of Computer Science, specializing in Data Science and Artificial Intelligence 🎓
+I am in my final year of studying Data Science and Artificial Intelligence 🎓
 
-Alongside university, I study at 42 School where I train on algorithms, logical thinking, and system design through intensive coding practice 💻
+Alongside university, I study at 42 School where I focus on improving my problem-solving skills, understanding algorithms deeply, and writing clean and efficient code through continuous practice.
 
-My goal is to move beyond theory and build AI systems that are functional, scalable, and useful in real environments.
+I prefer learning by building rather than only studying theory.
 
 ---
 
@@ -23,8 +22,8 @@ My goal is to move beyond theory and build AI systems that are functional, scala
 - Machine Learning and predictive systems 🤖  
 - Data analysis and real-world datasets 📊  
 - Large Language Models (LLMs) and RAG systems 🧠  
-- Robotics and AI integration ⚙️  
-- End-to-end AI pipelines (data → model → output)  
+- Robotics and embedded systems ⚙️  
+- Building end-to-end AI systems  
 
 ---
 
@@ -35,7 +34,7 @@ Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
 OpenCV, Matplotlib  
 OpenAI API, FastAPI, Streamlit  
 MySQL, MongoDB  
-Git, GitHub, Linux, Jupyter Notebook  
+Git, GitHub, Linux,  Jupyter Notebook  
 
 ---
 
@@ -43,20 +42,12 @@ Git, GitHub, Linux, Jupyter Notebook
 
 - Teaching Assistant – Python Programming 👩‍🏫  
 - Robotics Club Member 🤖  
-- University tech and media activities 🎯  
-- Academic AI/ML projects during studies  
-- Continuous problem-solving training at 42 School 💡  
-
----
-
-## Contact
-
-Email: sadeenamhmoud762@gmail.com  
-LinkedIn: linkedin.com/in/sadeenabukhadra  
-GitHub: github.com/sadeenabukhadra  
+- University tech and academic activities 🎯  
+- AI and Machine Learning projects during studies  
+- Problem-solving training at 42 School 💡  
 
 ---
 
 ## Goal
 
-To become an AI engineer who builds practical, reliable, and intelligent systems that solve real-world problems using machine learning and data-driven solutions 🚀
+To become an AI engineer who builds systems that are practical, reliable, and useful in real-world applications 🚀
