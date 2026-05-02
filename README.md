@@ -1,88 +1,79 @@
-## Hello there , I am Sadeen Abu-Khadra 
+# Hello, I'm Sadeen Abu-Khadra
 
-🎓 Final-year Data Science & Artificial Intelligence Student  
-🇯🇴 Based in Jordan  
- Aspiring AI & Data Science Engineer passionate about building real-world intelligent systems  
+I am a final-year Data Science and Artificial Intelligence student from Jordan, currently also enrolled in 42 School where I am strengthening my problem-solving and software engineering skills through a project-based learning approach.
 
----
-
-##  About Me
-I am a final-year Data Science and Artificial Intelligence student with hands-on experience in machine learning, data science, and robotics-related projects.
-
-I focus on learning by building practical systems that combine AI, data analysis, and real-world problem solving.
+I am passionate about Artificial Intelligence, Machine Learning, and building practical systems that connect data with real-world applications. My focus is on developing strong technical foundations while applying what I learn in meaningful and impactful ways.
 
 ---
 
-##  Interests
-- Artificial Intelligence & Machine Learning  
-- Data Science & Predictive Analytics  
+## About Me
+
+I am in my final year of studying Data Science and Artificial Intelligence. Throughout my studies, I have gained hands-on experience in machine learning, data analysis, and robotics-related applications.
+
+Alongside my academic studies, I am also part of 42 School, where I focus on improving my algorithmic thinking, coding discipline, and software engineering skills through continuous problem-solving practice.
+
+---
+
+## Interests
+
+- Artificial Intelligence and Machine Learning  
+- Data Science and Predictive Modeling  
 - Robotics and Embedded Systems  
-- Data Visualization & Interactive Analysis  
+- Data Visualization and Interactive Analytics  
 - Large Language Models (LLMs) and RAG systems  
 
 ---
 
-##  Current Focus
-- Final-year AI & Data Science projects  
-- Building end-to-end machine learning pipelines  
-- Working with LLM-based applications (OpenAI API, RAG concepts)  
-- Combining robotics with AI for real-world data collection  
+## Current Focus
+
+- Final-year university studies in AI and Data Science  
+- Building end-to-end machine learning systems  
+- Working with LLM-based applications and RAG concepts  
+- Improving software engineering and problem-solving skills through 42 School  
+- Integrating AI with real-world systems and data  
 
 ---
 
-##  Projects
-
-### AI-based Driving Evaluation System
-A university project that uses AI and language models to evaluate driving behavior and generate feedback.
-
-### Real Estate Price Prediction System
-A machine learning project that predicts house prices based on data features using regression models.
-
-### Robotics + AI Data Collection Project
-A system that integrates Arduino-based robotics with AI models to collect and analyze real-world data.
-
-### Interactive Data Visualization Projects
-Projects using Python (Plotly, Bokeh) to analyze and visualize datasets interactively.
-
----
-
-##  Skills
+## Skills
 
 ### Programming Languages
 Python, JavaScript, HTML, CSS, C++, C
 
-###  Machine Learning & AI
+### Machine Learning and AI
 Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, OpenCV
 
-###  AI Tools & LLMs
+### AI Tools and LLMs
 OpenAI API, Hugging Face, FastAPI, Streamlit, MLflow
 
-###  Robotics & Hardware
+### Robotics and Hardware
 Arduino, Embedded Systems basics
 
-###  Databases
+### Databases
 MySQL, MongoDB
 
-###  Tools & Platforms
+### Tools and Platforms
 Git, GitHub, Linux, Jupyter Notebook, Postman, Anaconda
 
 ---
 
-##  Experience & Activities
+## Experience and Activities
+
 - Teaching Assistant – Python Programming (Al-Hijjawi College of Engineering)  
 - Member of Robotics Club  
 - Volunteer in university tech and media activities (NASA Application, Aerospace, LWC Club)  
-- Participated in academic conferences and technical workshops  
-- Built multiple academic AI/ML projects during studies  
+- Participation in academic conferences and technical workshops  
+- Development of academic AI and machine learning experience through coursework and projects  
 
 ---
 
-##  Contact
--  Email: sadeenamhmoud762@gmail.com  
--  LinkedIn: https://www.linkedin.com/in/sadeenabukhadra/
+## Contact
 
+- Email: sadeenamhmoud762@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/sadeenabukhadra/  
+- GitHub: https://github.com/sadeenabukhadra  
 
 ---
 
-## ✨ Goal
-To grow as an AI engineer by building impactful, intelligent systems that solve real-world problems using machine learning and data-driven solutions.
+## Goal
+
+My goal is to continue growing in Artificial Intelligence and Data Science by building practical, reliable, and impactful systems that solve real-world problems using data-driven and intelligent approaches.
