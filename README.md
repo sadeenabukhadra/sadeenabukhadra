@@ -1,7 +1,7 @@
 # Hi, I'm Sadeen Abu-Khadra 🤖
 
 Final-year Data Science & Artificial Intelligence student from Jordan 🇯🇴  
-42 School student focused on algorithms, problem-solving, and software engineering through practice 💻
+42 School student(Core_Student) focused on algorithms, problem-solving, and software engineering through practice 💻
 
 I build and study AI systems with a focus on real-world applications, not just theory.
 
