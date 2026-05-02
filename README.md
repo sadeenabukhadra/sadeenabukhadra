@@ -29,7 +29,7 @@ I enjoy the process of learning hard concepts, breaking them down, and rebuildin
 
 ## Current path
 
-- Final-year AI & Data Science studies 🎓  
+- Final-year AI & Data Science studies at [Yarmouk University](https://www.yu.edu.jo/index.php/en) 🎓  
 - Continuous problem-solving practice at 42 School (Core student) 💻  
 - Working on real-world AI and ML systems  
 - Exploring modern LLM-based applications  
