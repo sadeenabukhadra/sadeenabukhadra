@@ -30,7 +30,7 @@ I enjoy the process of learning hard concepts, breaking them down, and rebuildin
 ## Current path
 
 - Final-year AI & Data Science studies at [Yarmouk University](https://www.yu.edu.jo/index.php/en) 🎓  
-- Continuous problem-solving practice at 42 School (Core student) 💻  
+- Continuous problem-solving practice at [42 Irbid(https://www.42network.org/campus/42-irbid/) (Core student) 💻  
 - Working on real-world AI and ML systems  
 - Exploring modern LLM-based applications  
 
