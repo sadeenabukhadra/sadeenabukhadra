@@ -1,5 +1,4 @@
 # Hi 🤖
-
 I'm Sadeen Abu-Khadra, a Data Scientist & Artificial Intelligence Engineer from Jordan 🇯🇴  
 
 What interests me most is how systems work — how data, logic, and code come together to create something that actually functions in the real world.
@@ -9,23 +8,25 @@ I focus on understanding and building systems rather than just learning isolated
 I learn best by building things, testing how they behave, and improving them until everything fits together properly.
 
 For me, the goal is always to see the bigger picture: how all the parts connect to form a working system.
+
 ---
 
 ## What I care about
 
-I like working with data, understanding patterns, and building models that actually make sense outside of theory.
+I enjoy working with data, understanding patterns, and building models that make sense beyond theory.
 
-I enjoy the process of learning hard concepts, breaking them down, and rebuilding them in code.
+I like breaking down complex ideas and rebuilding them into working code that actually solves problems.
 
 ---
+
 
 ## Focus
 
 - Artificial Intelligence and Machine Learning  
 - Data Science and real-world analytics  
 - Large Language Models and RAG systems  
-- System thinking and software engineering (42 approach)  
-- Building complete AI solutions from A to Z 🥰  
+- System thinking and software engineering  
+- Building complete AI solutions from A to Z  
 
 ---
 
