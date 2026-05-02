@@ -7,7 +7,7 @@ I focus on understanding and building systems rather than just learning isolated
 
 I learn best by building things, testing how they behave, and improving them until everything fits together properly.
 
-⭐For me, the goal is always to see the bigger picture: how all the parts connect to form a working system.
+⭐ For me , the goal is always to see the bigger picture: how all the parts connect to form a working system.
 
 ---
 
