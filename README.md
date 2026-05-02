@@ -23,7 +23,7 @@ I enjoy the process of learning hard concepts, breaking them down, and rebuildin
 - Data Science and real-world analytics  
 - Large Language Models and RAG systems  
 - System thinking and software engineering (42 approach)  
-- Building complete AI solutions from start to finish  
+- Building complete AI solutions from A to Z 🥰  
 
 ---
 
