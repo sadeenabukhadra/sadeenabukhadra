@@ -7,7 +7,7 @@
 ---
 
 ##  About Me
-I am a final-year Computer Science and Artificial Intelligence student with hands-on experience in machine learning, data science, and robotics-related projects.
+I am a final-year Data Science and Artificial Intelligence student with hands-on experience in machine learning, data science, and robotics-related projects.
 
 I focus on learning by building practical systems that combine AI, data analysis, and real-world problem solving.
 
