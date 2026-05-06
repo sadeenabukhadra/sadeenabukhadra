@@ -26,7 +26,7 @@ I like breaking down complex ideas and rebuilding them into working code that ac
 - Data Science and real-world analytics  
 - Large Language Models and RAG systems  
 - System thinking and software engineering  
-- learning of building complete AI solutions from A to Z  
+- Learning of building complete AI solutions from A to Z  
 
 ---
 
