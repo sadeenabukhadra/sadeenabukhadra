@@ -31,7 +31,3 @@ Most of what I know comes from building things, breaking them, then rebuilding t
 To build AI systems that don’t just work in theory, but actually make sense and can be used in real environments.
 
 ---
-
-# ⭐ One line I follow
-
-Understanding the system is more important than memorizing its parts.
