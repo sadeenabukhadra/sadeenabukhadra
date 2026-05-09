@@ -1,20 +1,37 @@
 # Hi 🤖👋  
-I'm Sadeen Abu-Khadra, a Data Science & Artificial Intelligence Engneer from Jordan.
+I'm Sadeen Abu-Khadra, a Data Science & Artificial Intelligence student from Jordan.
 
-I’m interested in understanding how systems work — especially how data, logic, and code connect together to form working solutions.
+I’m not just learning AI as concepts — I’m trying to understand how systems actually *work in real life*: how data flows, how logic connects, and how everything comes together to produce behavior.
 
-I learn by building projects, testing them, and improving them step by step.
+Most of what I know comes from building things, breaking them, then rebuilding them in a better way.
 
-## Interests
+---
+
+#  What I’m into
+
 - Artificial Intelligence & Machine Learning  
-- Data Science  
+- Data Science & real-world analytics  
 - Large Language Models (LLMs) & RAG systems  
-- System design and software thinking  
-- Building real-world AI projects
-## Current focus
-- Final-year AI & Data Science student at Yarmouk University  
-- Core student at 42 Irbid (problem solving & system thinking)  
-- Working on AI/ML projects and practical applications  
+- System design & software thinking  
+- Building complete AI projects (not just notebooks)  
 
-## Goal
-To become an AI engineer who builds useful and practical systems in real environments.
+---
+
+#  Where I am now
+
+- 🎓 Final-year AI & Data Science student at Yarmouk University  
+- 💻 Core student at 42 Irbid (problem solving & systems thinking)  
+- Working on real AI/ML projects  
+-  Exploring how LLMs can be used in practical systems  
+
+---
+
+# What I’m aiming for
+
+To build AI systems that don’t just work in theory, but actually make sense and can be used in real environments.
+
+---
+
+# ⭐ One line I follow
+
+Understanding the system is more important than memorizing its parts.
