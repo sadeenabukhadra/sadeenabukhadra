@@ -1,5 +1,5 @@
 # Hi 🤖👋  
-I'm Sadeen Abu-Khadra, a Data Science & Artificial Intelligence student from Jordan.
+I'm Sadeen Abu-Khadra, a Data Science & Artificial Intelligence Engineer from Jordan.
 
 I’m not just learning AI as concepts — I’m trying to understand how systems actually *work in real life*: how data flows, how logic connects, and how everything comes together to produce behavior.
 
