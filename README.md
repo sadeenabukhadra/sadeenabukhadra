@@ -9,11 +9,13 @@ I’m interested in systems that think, data that explains behavior, and ideas t
 
 
 ---
-## Projects and Interests
-- A robotics and machine learning project for real estate analysis  
-  Collecting data such as area and images, then using machine learning to predict property value
-- Data visualization and pattern exploration
-- Working with clustering, segmentation, and intelligent systems
+## Interests
+
+- Artificial Intelligence & Machine Learning  
+- Data Science  
+- Large Language Models & RAG  
+- System thinking  
+- Building AI projects 
 
   Take a look at my projects 😉
 ---
