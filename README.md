@@ -18,10 +18,15 @@ I’m interested in systems that think, data that explains behavior, and ideas t
   Take a look at my projects 😉
 ---
 ## Current path
+
 -Final year at Yarmouk University
+
 -Core student at 42 Irbid
+
 ---
+
 ## Identity
+
 Progress is personal.  
 Not faster than others, but clearer than yesterday.
 
