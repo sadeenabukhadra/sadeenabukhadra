@@ -2,8 +2,12 @@
 Data Science & AI Eng | Builder of ideas | Curious by default
 ---
 I’m Sadeen, a Data Science and Artificial Intelligence Engineer who enjoys turning curiosity into real systems and practical projects.
+
 I don’t just study concepts — I try to understand them deeply, question them, and rebuild them in a way that makes sense in the real world.
+
 I’m interested in systems that think, data that explains behavior, and ideas that can be implemented into working solutions.
+
+
 ---
 ## Projects and Interests
 - A robotics and machine learning project for real estate analysis  
