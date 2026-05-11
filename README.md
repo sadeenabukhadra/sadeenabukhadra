@@ -21,6 +21,8 @@ I’m interested in systems that think, data that explains behavior, and ideas t
 - Data visualization and pattern exploration
 - Working with clustering, segmentation, and intelligent systems
 
+  Take a look at my projects 😉
+
 ---
 ## Current path
 -Final year at Yarmouk University
