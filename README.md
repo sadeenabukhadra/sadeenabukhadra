@@ -33,8 +33,7 @@ Progress is personal.
 Not faster than others, but clearer than yesterday.
 
 Building creates clarity ,comfortable & happiness .
-
-I can spend a long time debugging something and then realize the issue was caused by my own assumption.
+In coding mode… I’m not available 🤷‍♀️
 
 ---
 
