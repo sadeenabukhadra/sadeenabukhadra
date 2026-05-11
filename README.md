@@ -7,8 +7,8 @@ I’m Sadeen, a Data Science and AI Engineer from Jordan.
 I don’t look at AI as just models or tools. I see it as systems that take data, process it through layers of logic, and produce behavior we can study and understand.
 
 A big part of how I think comes from curiosity more than “work”. Even when I’m not actively building something, I find myself trying to understand how systems behave, why they fail, and what’s happening under the surface.
-
 Most of my understanding didn’t come from just studying. It came from building, breaking, and rethinking things again.
+
 ---
 ## Interests
 
