@@ -2,38 +2,55 @@
 
 ## About Me
 
-I am Sadeen Abu-Khadra, a Data Science and Artificial Intelligence Engineer from Jordan.
+I’m Sadeen, a Data Science and AI Engineer from Jordan.
 
-I don’t approach AI as a collection of models or tools. I approach it as systems that process information, interact with constraints, and produce behavior that can be understood, analyzed, and improved.
+I don’t look at AI as just models or tools. I see it as systems that take data, process it through layers of logic, and produce behavior we can study and understand.
 
-Most of my learning didn’t come from passive studying. It came from building systems, breaking them, and rebuilding them with better understanding each time.
+A big part of how I think comes from curiosity more than “work”. Even when I’m not actively building something, I find myself trying to understand how systems behave, why they fail, and what’s happening under the surface.
 
-What matters to me is not just whether something works, but why it works and what makes it fail.
+Most of my understanding didn’t come from just studying. It came from building, breaking, and rethinking things again.
+
+---
+
+## How I Think
+
+I don’t believe in perfect conditions.
+
+Real systems are messy:
+data is incomplete, assumptions are wrong, and behavior is not always predictable.
+
+What interests me is not the final output, but how that output is formed.
+
+I usually try to understand things by following:
+- how data moves
+- how decisions are made
+- where uncertainty appears
+- and how simple parts create complex behavior
 
 ---
 
 ## Interests
 
-- Artificial Intelligence & Machine Learning
-- Data Science and real-world analysis
-- Large Language Models & RAG systems
-- System design and architectural thinking
-- Learning of building complete, end-to-end AI systems
+- Artificial Intelligence & Machine Learning  
+- Data Science in real environments  
+- Large Language Models & RAG systems  
+- System design and structured thinking  
+- Building full AI systems end-to-end  
 
 ---
 
 ## Current Focus
 
-- Final-year Data Science & AI student at Yarmouk University
-- Core student at 42 Irbid, focused on problem solving and system thinking
-- Working on applied AI/ML projects with real-world relevance
-- Exploring practical uses of LLMs beyond prototypes
+- Final-year Data Science & AI student at Yarmouk University  
+- Core student at 42 Irbid (problem solving & systems thinking)  
+- Working on applied AI/ML projects when possible  
+- Exploring how LLMs can be used in real systems, not just demos  
 
 ---
 
 #
 
-I don’t believe in perfect systems or perfect data.
+I care less about systems or data that look perfect.
 
 Real systems are messy, and understanding comes from working with that reality, not ignoring it.
 
