@@ -18,7 +18,7 @@ What matters to me is not just whether something works, but why it works and wha
 - Data Science and real-world analysis
 - Large Language Models & RAG systems
 - System design and architectural thinking
-- Building complete, end-to-end AI systems
+- Learning of building complete, end-to-end AI systems
 
 ---
 
