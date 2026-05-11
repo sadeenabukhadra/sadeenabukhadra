@@ -1,5 +1,5 @@
 # Hi 🤖👋  
-Data Science & AI student | Builder of ideas | Curious by default
+Data Science & AI Eng | Builder of ideas | Curious by default
 ---
 I’m Sadeen, a Data Science and Artificial Intelligence Engineer who enjoys turning curiosity into real systems and practical projects.
 
