@@ -6,6 +6,7 @@ I’m Sadeen, a Data Science and Artificial Intelligence Engineer who enjoys tur
 I don’t just study concepts — I try to understand them deeply, question them, and rebuild them in a way that makes sense in the real world.
 
 I’m interested in systems that think, data that explains behavior, and ideas that can be implemented into working solutions.
+
 ---
 ## What I Work With
 
