@@ -1,35 +1,41 @@
 # Hi 🤖👋  
+Data Science & AI student | Builder of ideas | Curious by default
+---
+I’m Sadeen, a Data Science and Artificial Intelligence Engineer who enjoys turning curiosity into real systems and practical projects.
 
-## About Me
+I don’t just study concepts — I try to understand them deeply, question them, and rebuild them in a way that makes sense in the real world.
 
-I’m Sadeen, a Data Science and AI Engineer from Jordan.
+I’m interested in systems that think, data that explains behavior, and ideas that can be implemented into working solutions.
+---
+## What I Work With
 
-I don’t look at AI as just models or tools. I see it as systems that take data, process it through layers of logic, and produce behavior we can study and understand.
+- Python
+- Machine Learning and Artificial Intelligence
+- Data Analysis and Visualization
+- Robotics and Arduino
+- Interactive Data Systems
+---
 
-A big part of how I think comes from curiosity more than “work”. Even when I’m not actively building something, I find myself trying to understand how systems behave, why they fail, and what’s happening under the surface.
-Most of my understanding didn’t come from just studying. It came from building, breaking, and rethinking things again.
+## Projects and Interests
+- A robotics and machine learning project for real estate analysis  
+  Collecting data such as area and images, then using machine learning to predict property value
+- Data visualization and pattern exploration
+- Working with clustering, segmentation, and intelligent systems
 
 ---
-## Interests
+## Current path
+-Final year at Yarmouk University
+-Core student at 42 Irbid
 
-- Artificial Intelligence & Machine Learning  
-- Data Science in real environments  
-- Large Language Models & RAG systems  
-- System design and structured thinking  
-- Building full AI systems end-to-end  
 ---
-## Current Focus
-- Final-year Data Science & AI student at Yarmouk University  
-- Core student at 42 Irbid (problem solving & systems thinking)  
-- Working on applied AI/ML projects when possible  
-- Exploring how LLMs can be used in real systems, not just demos  
+## Identity
+Progress is personal.  
+Not faster than others, but clearer than yesterday.
+
+Building creates clarity ,comfortable & happiness .
+
+I can spend a long time debugging something and then realize the issue was caused by my own assumption.
+
 ---
-#
-I care less about systems or data that look perfect.
 
-Real systems are messy, and understanding comes from working with that reality, not ignoring it.
-
-For me, understanding a system means being able to explain how its behavior emerges from its structure.
-
-That is what I try to build toward.
-```
+> I’m not just interested in using AI; I’m interested in understanding how it works
