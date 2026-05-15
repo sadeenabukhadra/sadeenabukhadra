@@ -37,5 +37,4 @@ Building creates clarity ,comfortable & happiness .
 In coding mode… I’m not available 🤷‍♀️
 
 ---
-
-> I’m not just interested in using AI; I’m interested in understanding how it works
+ 
