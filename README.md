@@ -21,7 +21,7 @@ I’m interested in systems that think, data that explains behavior, and ideas t
 ---
 ## Current path
 
--Final year at Yarmouk University
+-Recently graduated from Yarmouk University
 
 -Core student at 42 Irbid
 
