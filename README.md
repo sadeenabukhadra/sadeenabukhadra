@@ -12,7 +12,7 @@ Interests
 
 - Data Science & Analytics
 
-- Computer Vision & Generative AI
+- Deep Learning & Computer Vision 
 
 - Backend Development & Databases
  
