@@ -1,5 +1,5 @@
 # Hi, I'm Sadeen 👋  
-Data Science & AI Eng | Builder of ideas | Curious by default
+Data Science & AI Eng 
 ---
 
 Data Science & AI graduate, software developer, and systems enthusiast. I love building things with code, solving real-world problems, and exploring how software, data, and AI come together. Currently building systems, learning new things, and figuring out how everything works under the hood 😉
