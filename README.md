@@ -2,18 +2,18 @@
 Data Science & AI Eng 
 ---
 
-Data Science & AI graduate, software developer, and systems enthusiast. I love building things with code, solving real-world problems, and exploring how software, data, and AI come together. Currently building systems, learning new things, and figuring out how everything works under the hood 😉
+Data Science & AI graduate, software developer, and systems enthusiast. I love building things with code, solving real-world problems, and exploring how software, data, and AI come together. Currently building systems, learning new things, and figuring out how everything works under the hood .
 
 Interests
-
-- Software & Systems Development
 
 - Artificial Intelligence & Machine Learning
 
 - Data Science & Analytics
 
-- Deep Learning & Computer Vision 
+- Deep Learning & Computer Vision
 
+- Software & Systems Development
+ 
 - Backend Development & Databases
  
 - Large Language Models & RAG  
@@ -25,7 +25,7 @@ Interests
 
 -Recently graduated from Yarmouk University
 
--Core student at 42 Irbid
+-Core student at 42 Network
 
 ---
 
