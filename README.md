@@ -1,6 +1,6 @@
 # Hi, I'm Sadeen 👋 
 
-### Data Science & AI Graduate | Software Developer | Systems Enthusiast
+### Data Science & AI Graduate | Software Developer |Systems & IT
 
 I'm a Data Science & AI graduate from Yarmouk University with an interest in building practical software systems that bring together programming, data, and artificial intelligence.
 
